@@ -4,19 +4,19 @@ I am making a Machine Learning repo. where I will upload several datasets and it
 
 Focusing on both the classification and regression, I have selected following dataset's on which I would be working on. 
 
-Classification:<br/>
-	1) Iris <br/>
+<b><h3>Classification:</h3></b><br/><br/>
+<h4>	1) Iris <br/>
 	2) Titanic <br/>
 	3) Education dataset <br/>
 	4) MNIST <br/>
-	5) Numbers by fingers  <br/>
-Regression:<br/>
-	1) Boston housing<br/>
+	5) Numbers by fingers  <br/> </h4>
+<b><h3>Regression:</b></h3><br/><br/>
+<h4>	1) Boston housing<br/>
 	2) Medical cost presonal dataset<br/>
 	3) Red Wine<br/>
 	4) Car price prediction <br/>
 	5) Human Resource Data Set<br/>
 	6) New York stock exchange data<br/>
 	7) Deep fake detection<br/>
-
-Pull requests always welcomed ! :)
+</h4>
+<b><h3>Pull requests always welcomed ! :) </h3></b>
