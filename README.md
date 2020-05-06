@@ -6,17 +6,17 @@ Focusing on both the classification and regression, I have selected following da
 
 Classification:<br/>
 	1) Iris <br/>
-	2) Titanic 
-	3) Education dataset 
-	4) MNIST
-	5) Numbers by fingers  
-Regression:
-	1) Boston housing
-	2) Medical cost presonal dataset
-	3) Red Wine
-	4) Car price prediction 
-	5) Human Resource Data Set
-	6) New York stock exchange data
-	7) Deep fake detection
+	2) Titanic <br/>
+	3) Education dataset <br/>
+	4) MNIST <br/>
+	5) Numbers by fingers  <br/>
+Regression:<br/>
+	1) Boston housing<br/>
+	2) Medical cost presonal dataset<br/>
+	3) Red Wine<br/>
+	4) Car price prediction <br/>
+	5) Human Resource Data Set<br/>
+	6) New York stock exchange data<br/>
+	7) Deep fake detection<br/>
 
 Pull requests always welcomed ! :)
