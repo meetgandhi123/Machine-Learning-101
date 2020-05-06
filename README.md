@@ -4,8 +4,8 @@ I am making a Machine Learning repo. where I will upload several datasets and it
 
 Focusing on both the classification and regression, I have selected following dataset's on which I would be working on. 
 
-Classification:
-	1) Iris 
+Classification:<br/>
+	1) Iris <br/>
 	2) Titanic 
 	3) Education dataset 
 	4) MNIST
