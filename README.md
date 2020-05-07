@@ -5,7 +5,7 @@ I am making a Machine Learning repo. where I will upload several datasets and it
 Focusing on both the classification and regression, I have selected following dataset's on which I would be working on. 
 
 <b><h3>Classification:</h3></b>
-    	:heavy_check_mark1) Iris <br/> 
+    	:heavy_check_mark:1) Iris <br/> 
     	2) Titanic <br/>
     	3) Education dataset <br/>
     	4) MNIST <br/>
