@@ -9,7 +9,7 @@ Focusing on both the classification and regression, I have selected following da
     	2) Titanic <br/>
     	3) Education dataset <br/>
     	4) MNIST <br/>
-    	5) Numbers by fingers  <br/> 
+    	5) Hand SIGNS  <br/> 
 <b><h3>Regression:</b></h3>
     	1) Boston housing<br/>
     	2) Medical cost presonal dataset<br/>
