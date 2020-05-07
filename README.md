@@ -7,7 +7,7 @@ Focusing on both the classification and regression, I have selected following da
 <b><h3>Classification:</h3></b>
     	1) Iris :heavy_check_mark:<br/> 
     	2) Titanic :heavy_check_mark:<br/>
-    	3) Education dataset <br/>
+    	3) Education dataset :heavy_check_mark:<br/>
     	4) MNIST <br/>
     	5) Hand SIGNS  <br/> 
 <b><h3>Regression:</b></h3>
