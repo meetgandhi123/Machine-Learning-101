@@ -19,3 +19,4 @@ Focusing on both the classification and regression, I have selected following da
     	6) New York stock exchange data<br/>
     	7) Deep fake detection<br/>
 <b><h3>Pull requests always welcomed ! :) </h3></b>
+<b>You may add your datasets with solutions, or can request us to give their solutions. Happy Coding!! </b>
