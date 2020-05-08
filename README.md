@@ -8,8 +8,8 @@ Focusing on both the classification and regression, I have selected following da
     	1) Iris :heavy_check_mark:<br/> 
     	2) Titanic :heavy_check_mark:<br/>
     	3) Education dataset :heavy_check_mark:<br/>
-    	4) MNIST <br/>
-    	5) Hand SIGNS  <br/> 
+    	4) MNIST :heavy_check_mark:<br/>
+    	5) Hand SIGNS :heavy_check_mark:<br/> 
 <b><h3>Regression:</b></h3>
     	1) Boston housing<br/>
     	2) Medical cost presonal dataset<br/>
