@@ -12,8 +12,8 @@ Focusing on both the classification and regression, I have selected following da
     	5) Hand SIGNS :heavy_check_mark:<br/> 
 <b><h3>Regression:</b></h3>
     	1) Boston housing :heavy_check_mark:<br/>
-    	2) Medical cost presonal dataset<br/>
-    	3) Red Wine :heavy_check_mark:<br/>
+    	2) Red Wine :heavy_check_mark:<br/>
+    	3) Medical cost presonal dataset<br/>
     	4) Car price prediction <br/>
     	5) Human Resource Data Set<br/>
     	6) New York stock exchange data<br/>
