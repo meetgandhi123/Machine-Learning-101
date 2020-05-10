@@ -14,7 +14,7 @@ Focusing on both the classification and regression, I have selected following da
     	1) Boston housing :heavy_check_mark:<br/>
     	2) Red Wine :heavy_check_mark:<br/>
     	3) Medical cost personal dataset :heavy_check_mark:<br/>
-    	4) Car price prediction <br/>
+    	4) Car price prediction :heavy_check_mark:<br/>
     	5) Human Resource Data Set<br/>
     	6) New York stock exchange data<br/>
     	7) Deep fake detection<br/>
