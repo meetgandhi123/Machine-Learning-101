@@ -20,15 +20,15 @@ Focusing on both the classification and regression, I have selected following da
     	7) Deep fake detection<br/>
         
 <b>Classification</b>
-First, if you have a classification problem “which is predicting the class of a given input”.<br><br>
-  <b>Slow but accurate</b>
-- Non-linear SVM<br>
-- Random Forest<br>
-- Neural Network (needs a lot of data points)<br>
-- Gradient Boosting Tree (similar to Random Forest, but easier to overfit)<br>
+First, if you have a classification problem “which is predicting the class of a given input”.<br/><br/>
+<b>Slow but accurate</b>
+    1)Non-linear SVM<br/>
+    2)Random Forest<br/>
+    3)Neural Network (needs a lot of data points)<br/>
+    4)Gradient Boosting Tree (similar to Random Forest, but easier to overfit)<br/>
 <b>Fast</b>
-- Explainable models: Decision Tree and Logistic Regression<br>
-- Non-explainable Models: Linear SVM and Naive Bayes<br>        
+    1)Explainable models: Decision Tree and Logistic Regression<br/>
+    2)Non-explainable Models: Linear SVM and Naive Bayes<br/>        
 
 <b>Regression</b>
 If you have a regression problem “which is predicting a continuous value like predicting prices of a house given the features of the house like size, number of rooms, etc”.<br><br>
