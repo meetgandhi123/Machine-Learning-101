@@ -18,5 +18,27 @@ Focusing on both the classification and regression, I have selected following da
     	5) Human Resource Data Set<br/>
     	6) New York stock exchange data<br/>
     	7) Deep fake detection<br/>
+        
+<b>Classification</b>
+First, if you have a classification problem “which is predicting the class of a given input”.
+- Slow but accurate
+Non-linear SVM
+Random Forest
+Neural Network (needs a lot of data points)
+Gradient Boosting Tree (similar to Random Forest, but easier to overfit)
+- Fast
+Explainable models: Decision Tree and Logistic Regression
+Non-explainable Models: Linear SVM and Naive Bayes        
+
+<b>Regression</b>
+If you have a regression problem “which is predicting a continuous value like predicting prices of a house given the features of the house like size, number of rooms, etc”.
+- Accurate but slow
+Random Forest
+Neural Network (needs a lot of data points)
+Gradient Boosting Tree (similar to Random Forest, but easier to overfit)
+- Fast
+Decision Tree
+Linear Regression
+
 <b><h3>Pull requests always welcomed ! :) </h3></b>
 <b>You may add your datasets with solutions, or can request us to give their solutions. Happy Coding!! </b>
