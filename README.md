@@ -21,24 +21,24 @@ Focusing on both the classification and regression, I have selected following da
         
 <b>Classification</b>
 First, if you have a classification problem “which is predicting the class of a given input”.
-- Slow but accurate
-Non-linear SVM
-Random Forest
-Neural Network (needs a lot of data points)
-Gradient Boosting Tree (similar to Random Forest, but easier to overfit)
+- Slow but accurate<br>
+Non-linear SVM<br>
+Random Forest<br>
+Neural Network (needs a lot of data points)<br>
+Gradient Boosting Tree (similar to Random Forest, but easier to overfit)<br>
 - Fast
-Explainable models: Decision Tree and Logistic Regression
-Non-explainable Models: Linear SVM and Naive Bayes        
+Explainable models: Decision Tree and Logistic Regression<br>
+Non-explainable Models: Linear SVM and Naive Bayes<br>        
 
 <b>Regression</b>
 If you have a regression problem “which is predicting a continuous value like predicting prices of a house given the features of the house like size, number of rooms, etc”.
 - Accurate but slow
-Random Forest
-Neural Network (needs a lot of data points)
-Gradient Boosting Tree (similar to Random Forest, but easier to overfit)
+Random Forest<br>
+Neural Network (needs a lot of data points)<br>
+Gradient Boosting Tree (similar to Random Forest, but easier to overfit)<br>
 - Fast
-Decision Tree
-Linear Regression
+Decision Tree<br>
+Linear Regression<br>
 
 <b><h3>Pull requests always welcomed ! :) </h3></b>
 <b>You may add your datasets with solutions, or can request us to give their solutions. Happy Coding!! </b>
