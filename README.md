@@ -19,7 +19,7 @@ Focusing on both the classification and regression, I have selected following da
     	6) New York stock exchange data<br/>
     	7) Deep fake detection<br/>
         
-<b>Classification</b>
+<b>Classification</b><br/>
 First, if you have a classification problem “which is predicting the class of a given input”.<br/><br/>
 <b>Slow but accurate</b><br/>
     1)Non-linear SVM<br/>
@@ -30,7 +30,7 @@ First, if you have a classification problem “which is predicting the class of 
     1)Explainable models: Decision Tree and Logistic Regression<br/>
     2)Non-explainable Models: Linear SVM and Naive Bayes<br/>        
 
-<b>Regression</b>
+<b>Regression</b><br/>
 If you have a regression problem “which is predicting a continuous value like predicting prices of a house given the features of the house like size, number of rooms, etc”.<br/><br/>
 <b>Slow but accurate</b><br/>
     1)Random Forest<br>
