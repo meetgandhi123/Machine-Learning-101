@@ -25,7 +25,7 @@ First, if you have a classification problem “which is predicting the class of 
     1)Non-linear SVM<br/>
     2)Random Forest<br/>
     3)Neural Network (needs a lot of data points)<br/>
-    4)Gradient Boosting Tree (similar to Random Forest, but easier to overfit)<br/>
+    4)Gradient Boosting Tree (similar to Random Forest, but easier to overfit)<br/><br/>
 <b>Fast</b><br/>
     1)Explainable models: Decision Tree and Logistic Regression<br/>
     2)Non-explainable Models: Linear SVM and Naive Bayes<br/>        
@@ -35,7 +35,7 @@ If you have a regression problem “which is predicting a continuous value like 
 <b>Slow but accurate</b><br/>
     1)Random Forest<br>
     2)Neural Network (needs a lot of data points)<br>
-    3)Gradient Boosting Tree (similar to Random Forest, but easier to overfit)<br>
+    3)Gradient Boosting Tree (similar to Random Forest, but easier to overfit)<br><br/>
 <b>Fast</b><br/>
     1)Decision Tree<br>
     2)Linear Regression<br>
