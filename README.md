@@ -1,6 +1,6 @@
 # Machine-Learning 101
 
-I am making a Machine Learning repo. where I will upload several datasets and its solution with explanation. Starting from the basic and moving up in difficulty level.
+I am making a Machine Learning repository where I will upload several datasets and its solution with explanation. Starting from the basic and moving up in difficulty level.
 
 Focusing on both the classification and regression, I have selected following dataset's on which I would be working on. 
 
