@@ -1,8 +1,8 @@
 # Machine-Learning 101
 
-I am making a Machine Learning repository where I will upload several datasets and its solution with explanation. Starting from the basic and moving up in difficulty level.
+We are making a Machine Learning repository where we will upload several datasets and its solution with explanation. Starting from the basic and moving up in difficulty level.
 
-Focusing on both the classification and regression, I have selected following dataset's on which I would be working on. 
+Focusing on both the classification and regression, we have selected following dataset's on which we would be working on. 
 
 <b><h3>Classification:</h3></b>
     	1) Iris :heavy_check_mark:<br/> 
